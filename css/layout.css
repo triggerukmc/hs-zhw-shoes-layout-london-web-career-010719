@@ -34,9 +34,13 @@
 .col-2{
   float: left;
   width: 66%;
+  padding:10px;
+  margin: 10px;
 }
 
 .col-3{
+  padding:10px;
+  margin: 10px;
 }
 
 
